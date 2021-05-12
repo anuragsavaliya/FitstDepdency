@@ -1,0 +1,3 @@
+include ':testFirstLib'
+include ':app'
+rootProject.name = "FirstDependency"
